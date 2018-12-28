@@ -29,7 +29,7 @@ Optional:
 - Write 250-300 words summarizing the artifact for this audience and why you think it is significant. Imagine your artifact being represented in a museum on a generation ship or a textbook and you're writing the wall text or the chapter summary. 
 - If selecting a landscape, please provide geographic coordinates (latitude, longitude) and/or an aerial image of the landscape (Google Earth screenshot is fine)
 - If selecting a historical event or object, please provide one to three images to represent the artifact. 
-- Either email your description and image(s) to Ingrid (lifewinning@gmail.com) or add as a comment to this gist by **12pm on  January 16**. 
+- Either email your description and image(s) to Ingrid (lifewinning@gmail.com) or add as a pull request to this repository by **12pm on  January 16**. 
 - Be prepared to give a 5-8 minute presentation of your artifact for the next class (slides optional; you can also just show us your image(s); if you make slides also send to Ingrid so we can run them off one machine in class). If you want to bring in a physical object for show-and-tell to represent your artifact, please do!
 - We will be collating your artifacts into a publication to be released as part of the class showcase.
 - Notes/suggestions for artifact selection 
