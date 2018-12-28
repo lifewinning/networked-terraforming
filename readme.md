@@ -36,8 +36,7 @@ Optional:
   - This does not have to be framed as an artifact of blame or scorn, and it does not have to be a necessarily negative aspect of life on this planet. Maybe you want to share a cultural practice or a tradition that you think that future terraformers should revive or maintain, or a biological artifact that you think could help terraformers think about how they construct planets. It's as important to consider *how* you want your audience to think about the past as *what* artifact you want them to think about. 
   - Err toward specificity–"colonialism" is a valid artifact if you want to try and summarize that in 300 words, but a specific story (e.g., the formation of the East India Company, the standardization of ASCII, a defense contractor Powerpoint deck) will be a little more resonant and interesting here, and probably more fun for you to research.
   - Assume that these future human beings are more or less biologically the same as humans today–so you cannot select "humans" or "humanity" or "human nature" in this exercise. Also, that would be a really reductive approach and you're probably more interesting than that.
-  - If multiple people pick the same artifact, that's fine; those students will be asked to synthesize their observations into a single text to 
-  - If you're not sure that you  
+  - If multiple people pick the same artifact, that's fine; you may be asked to collaborate with those students for the synthesis of your observations for the final publication.
 
 ## Day 2
 
