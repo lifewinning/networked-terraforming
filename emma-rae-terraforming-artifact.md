@@ -6,7 +6,7 @@ Over time the mouse has seen different shapes, different mechanics, and has used
 
 Although it was originally created for a practical purpose of moving something on a screen the personal computer and the internet helped it to become more than that. It is also the device through which we perform almost every and any computational process. It is an extension of our arm and our bodies. It transports us to another place. We buy things with the mouse. We support causes with the mouse. We are looking and searching with the mouse. We desire with the mouse.
 
-Through a technofeminist lens the mouse can be seen as a departure from its phallic predecessors like the light pen and joystick. It requires engagement with the body and since its invention as a box has adapted it's shape to the human body.
+Through a technofeminist lens the mouse can be seen as a departure from its phallic predecessors like the light pen and joystick. It requires engagement with the human body and since its invention as a box has adapted it's shape to the body.
 
 Even as the mouse begins to get replaced by touch pads and screens the underlying function of the mouse and especially of the click still mediates the relationship between human and computer. Also many people claim that the mouse is still the most accurate tool for dealing with graphical interfaces like a spreadsheet. The mouse is the point of entry into a world that seems to have more and more power over how we move through and process our physical world.
 
